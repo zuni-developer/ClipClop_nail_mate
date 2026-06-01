@@ -1,7 +1,5 @@
 # Clip Clop - Nail Care Reminder App ✂️
 
-![App Screenshot](assets/screenshots/) <!-- Add your screenshot path here -->
-
 A friendly Flutter app that helps users remember to trim their nails regularly with cute reminders and positive reinforcement.
 
 ## Features ✨
@@ -12,6 +10,13 @@ A friendly Flutter app that helps users remember to trim their nails regularly w
 - 📊 Trim history statistics
 - 🎨 Masculine, clean UI design
 - 📱 Works offline with local data storage
+
+## 📸 App Preview
+
+| | | |
+|---|---|---|
+| ![s1](assets/screen1.png) | ![s2](assets/screen2.png) | ![s3](assets/screen3.png) |
+| ![s4](assets/screen4.png) | ![s5](assets/screen5.png) | ![s6](assets/screen6.png) |
 
 ## Installation 🛠️
 
