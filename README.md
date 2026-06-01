@@ -13,6 +13,7 @@ A friendly Flutter app that helps users remember to trim their nails regularly w
 
 ## 📸 App Preview
 
+| | | |
 |---|---|---|
 | ![s1](assets/screenshots/screen1.jpg) | ![s2](assets/screenshots/screen2.jpg) | ![s3](assets/screenshots/screen3.jpg) |
 | ![s4](assets/screenshots/screen4.jpg) | ![s5](assets/screenshots/screen5.jpg) | ![s6](assets/screenshots/screen6.jpg) |
